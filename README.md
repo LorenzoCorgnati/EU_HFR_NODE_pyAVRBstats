@@ -5,6 +5,8 @@ The application performs basic statistics on the radial bearing angles of High F
 
 The application perform statistics both starting from the raw .ruv radial files from Codar SeaSonde systems and from the netCDF files archived in the EU HFR NODE THREDDS catalog.
 
+For running the application, execution permits must be assigned by using the following command: 'chmod 755 pyAVRBstats.py'
+
 Usage: pyAVRBstats.py -n <network ID> -t <radial file type (nc or ruv)>
 Example: pyAVRBstats.py -n HFR-TirLig -t nc
 Example: pyAVRBstats.py -n HFR-EUSKOOS -t ruv
