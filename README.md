@@ -1,5 +1,7 @@
 # EU_HFR_NODE_pyAVRBstats
-This application is written in Python3 language and it is designed for High Frequency Radar (HFR) data management according to the European HFR node processing workflow. The application performs basic statistic on the radial bearing angles of High Frequency Radar radial site time series in order to support the selection of the Average Radial Bearing QC test's thresholds. In particular, for each radial site of the input HFR network, plots are generated for the time series of the radial vector average bearing and for the overall distribution of the radial vector bearings.
+This application is written in Python3 language and it is designed for High Frequency Radar (HFR) data management according to the European HFR Node (EU HFR NODE) processing workflow.
+
+The application performs basic statistics on the radial bearing angles of High Frequency Radar radial site time series in order to support the selection of the Average Radial Bearing QC test's thresholds. In particular, for each radial site of the input HFR network, plots are generated for the time series of the radial vector average bearing and for the overall distribution of the radial vector bearings.
 
 The application perform statistics both starting from the raw .ruv radial files from Codar SeaSonde systems and from the netCDF files archived in the EU HFR NODE THREDDS catalog.
 
