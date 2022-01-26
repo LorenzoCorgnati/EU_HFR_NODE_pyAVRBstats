@@ -1,0 +1,43 @@
+{
+    "_class": "Software",
+    "alias": "https://github.com/LorenzoCorgnati/EU_HFR_NODE_pyAVRBstats",
+    "abstract": "Python3 scripts for performing statisstics on the radial bearing angles of High Frequency Radar systems.",
+    "author": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/134"
+    },
+    "created": "2021-05-01",
+    "contributor": [
+        {
+            "_class": "Person",
+            "name": "Lorenzo Corgnati <lorenzo.corgnati@sp.ismar.cnr.it>"
+        }
+    ],
+    "description": "The application performs basic statistics on the radial bearing angles of High Frequency Radar radial site time series in order to support the selection of the Average Radial Bearing QC test's thresholds. In particular, for each radial site of the input HFR network, plots are generated for the time series of the radial vector average bearing and for the overall distribution of the radial vector bearings.",
+    "distribution": {
+        "_class": "Distribution",
+        "accessURL": "https://github.com/LorenzoCorgnati/EU_HFR_NODE_pyAVRBstats"
+    },
+    "downloadURL": "https://github.com/LorenzoCorgnati/EU_HFR_NODE_pyAVRBstats/archive/refs/heads/master.zip",
+    "keywords": ["python","netcdf","physical-oceanography","ocean-sciences","hf-radar","data-preservation","jerico-ri"],
+    "language": ["English"],
+    "license": "This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.\n\nThis program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.",
+    "modified": "2021-05-01",
+    "name": "EU_HFR_NODE_pyAVRBstats",
+    "organization": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/134"
+    },
+    "owner": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/134"
+    },
+    "publisher": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/134"
+    },
+    "published": "2021-05-01",
+    "programming_language": ["PYTHON"],
+    "url": "https://github.com/LorenzoCorgnati/EU_HFR_NODE_pyAVRBstats",
+    "version": "v1.0"
+}
